@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=for-the-badge&logo=pytorch)
 ![Dataset](https://img.shields.io/badge/Dataset-MNIST-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
 ---
 
